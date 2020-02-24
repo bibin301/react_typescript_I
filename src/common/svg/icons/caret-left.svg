@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="caret-left" width="6px" height="9px" viewBox="0 0 6 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="Icon" fill-rule="nonzero">
+            <path d="M3,5.27139264 L5.97786377,2.15727211 L6.98970197,3.12483784 L3.73477036,6.52870388 C3.34672358,6.93450635 2.70318161,6.94890017 2.29737914,6.56085339 C2.28106473,6.54501829 2.28106473,6.54501829 2.26522964,6.52870388 L-0.989701969,3.12483784 L0.0221362337,2.15727211 L3,5.27139264 Z" id="Shape" transform="translate(3.000000, 4.500000) rotate(-270.000000) translate(-3.000000, -4.500000) "></path>
+        </g>
+    </g>
+</svg>

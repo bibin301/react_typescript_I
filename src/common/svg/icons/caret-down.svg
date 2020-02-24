@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="caret-down" width="9px" height="6px" viewBox="0 0 9 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="Icon" fill-rule="nonzero">
+            <path d="M4.5,3.77139264 L7.47786377,0.657272105 L8.48970197,1.62483784 L5.23477036,5.02870388 C4.84672358,5.43450635 4.20318161,5.44890017 3.79737914,5.06085339 C3.78106473,5.04501829 3.78106473,5.04501829 3.76522964,5.02870388 L0.510298031,1.62483784 L1.52213623,0.657272105 L4.5,3.77139264 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

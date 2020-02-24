@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard-Copy-88" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6.233,12.467 C5.84640068,12.467 5.533,12.1535993 5.533,11.767 L5.533,0.7 C5.533,0.313400675 5.84640068,-7.77156117e-16 6.233,-7.77156117e-16 L17.3,-7.77156117e-16 C17.6865993,-7.77156117e-16 18,0.313400675 18,0.7 L18,11.767 C18,12.1535993 17.6865993,12.467 17.3,12.467 L6.233,12.467 Z M6.933,11.067 L16.6,11.067 L16.6,1.4 L6.933,1.4 L6.933,11.067 Z M0.7,18 C0.313400675,18 -8.8817842e-16,17.6865993 -8.8817842e-16,17.3 L-8.8817842e-16,6.233 C-8.8817842e-16,5.84640068 0.313400675,5.533 0.7,5.533 L11.767,5.533 C12.1535993,5.533 12.467,5.84640068 12.467,6.233 L12.467,17.3 C12.467,17.6865993 12.1535993,18 11.767,18 L0.7,18 Z M11.067,16.6 L11.067,6.933 L1.4,6.933 L1.4,16.6 L11.067,16.6 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

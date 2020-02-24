@@ -1,0 +1,10 @@
+<svg width="11px" height="14px" viewBox="0 0 11 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <g id="admin_scheduler_main-view" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1370.000000, -136.000000)">
+        <g id="Group-2" transform="translate(1358.000000, 130.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="triangle-right-17" transform="translate(13.000000, 7.000000)">
+                <path d="M0.710581162,-0.163231113 L9.01827347,5.46176889 C9.39903705,5.71957756 9.39903705,6.28042244 9.01827347,6.53823111 L0.710581162,12.1632311 C0.27894693,12.4554835 -0.303846154,12.1462672 -0.303846154,11.625 L-0.303846154,0.375 C-0.303846154,-0.146267247 0.27894693,-0.455483458 0.710581162,-0.163231113 Z M0.996153846,1.60008294 L0.996153846,10.3999171 L7.49449289,6 L0.996153846,1.60008294 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

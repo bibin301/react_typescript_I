@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="person" width="24px" height="30px" viewBox="0 0 24 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-274" transform="translate(-8.000000, -5.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M20,33.3 C25.596558,33.3 30.179,28.717558 30.179,23.121 L30.179,16.879 C30.179,11.282442 25.596558,6.7 20,6.7 C14.403442,6.7 9.821,11.282442 9.821,16.879 L9.821,23.121 C9.821,28.717558 14.403442,33.3 20,33.3 Z M20,35 C13.464558,35 8.121,29.656442 8.121,23.121 L8.121,16.879 C8.121,10.343558 13.464558,5 20,5 C26.535442,5 31.879,10.343558 31.879,16.879 L31.879,23.121 C31.879,29.656442 26.535442,35 20,35 Z" id="Page-1"></path>
+        </g>
+    </g>
+</svg>
