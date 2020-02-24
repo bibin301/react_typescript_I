@@ -27,7 +27,7 @@
     "@types/redux-form": "^7.2.5",
     "@types/redux-persist": "^4.3.1",
     "aes-cross": "^1.0.9",
-    "axios": "^0.16.2",
+    "axios": "^0.19.2",
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.2.2",
     "babel-loader": "^7.1.2",
